@@ -38,15 +38,13 @@ If you find this work interesting in your research, please kindly cite:
 ```
 
 ```
-@ARTICLE{10766621,
+@article{zhu2024greedy,
+  title={A Greedy Strategy Guided Graph Self-Attention Network for Few-Shot Hyperspectral Image Classification},
   author={Zhu, Fei and Shi, Cuiping and Wang, Liguo and Shi, Kaijie},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={A Greedy Strategy Guided Graph Self-Attention Network for Few-Shot Hyperspectral Image Classification}, 
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2024},
-  volume={62},
-  number={},
-  pages={1-20},
-  doi={10.1109/TGRS.2024.3505539}}
+  publisher={IEEE}
+}
 ```
 
 # Acknowledgements
